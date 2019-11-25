@@ -1,1 +1,1 @@
-openml-onnx
+# Onnx extension for openml python
